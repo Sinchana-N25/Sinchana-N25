@@ -1,19 +1,41 @@
- <h3 align="center">GSSOC(24) Badges 🪶</h3><br>
-<div style='display:flex; align-items:center; gap: 16px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-</div><br>
-<h3 align="center">Hacktoberfest(24) Badges 🪶</h3><br>
+<h2 align="center">Hey! I'm Sinchana <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h2>
 
-[![An image of @sinch25's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sinch25)](https://holopin.io/@sinch25)<br>
+### 📬 Find me at
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Sinchana-N25)]((https://github.com/Sinchana-N25)) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sinchana-n-8b3416323/)](https://www.linkedin.com/in/sinchana-n-8b3416323/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sinchana2505@gmail.com)](mailto:sinchana2505@gmail.com)
+[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-yellow?style=flat-square&logo=LeetCode&logoColor=white&link=https://leetcode.com/u/sinch25/)](https://leetcode.com/u/sinch25/)
 
-<h2 align="center">Tech stack and tools 🌐🖥️</h2>
+### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+I'm a **Grad Student🎓 @ The Bangalore Institute of Technology** majoring in Information Science. I'm a **Tech Enthusiast 💻** passionate about learning and working with new tech. I'm interested in web development and love solving problems on coding platforms. <br/><br/>
+
+<a href="https://octodex.github.com/suftocat/">
+  <img align="right" src="https://i.ibb.co/d4rqykTc/surftocat-transparent.png" width="200" />
+</a>
+
+### A Few Quick Facts
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
+  - 📊 Machine Learning & Data Science
+  - 📦 Full Stack Development
+- 📝 I write technical blogs and articles
+- 🧩  I enjoy solving Sudokus and Rubik's cubes
+-  Fun-Fact: I love reading novels 📙 and playing the guitar 🎸
 <br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,md,javascript" /> <br><br>
-    <img src="https://skillicons.dev/icons?i=vscode,linux,github,git,ubuntu,bash" /> <br>
-</div>
+
+###  Some Tools and Tech I use
+<code><img height="30" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4"></code>
+<code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://avatars3.githubusercontent.com/u/9950313?s=200&v=4"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"></code>
+<code><img height="30" src="https://avatars1.githubusercontent.com/u/45120?s=200&v=4"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://avatars1.githubusercontent.com/u/1517864?s=200&v=4"></code>
+<code><img height="30" src="https://avatars1.githubusercontent.com/u/2918581?s=200&v=4"></code>
+<code><img height="30" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4"></code>
+
+<br/>
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
