@@ -10,7 +10,7 @@
 I'm a **Grad Student🎓 @ The Bangalore Institute of Technology** majoring in Information Science. I'm a **Tech Enthusiast 💻** passionate about learning and working with new tech. I'm interested in web development and love solving problems on coding platforms. <br/><br/>
 
 <a href="https://octodex.github.com/NUXtocat/">
-  <img align="right" src="https://raw.githubusercontent.com/Sinchana-N25/Sinchana-N25/main/coder.gif" width="400" />
+  <img align="right" src="https://raw.githubusercontent.com/Sinchana-N25/Sinchana-N25/main/coder.gif" width="300" />
 </a>
 
 ### A Few Quick Facts
